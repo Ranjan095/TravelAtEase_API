@@ -1,0 +1,23 @@
+{
+  "name": "travelatease_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranjan095/TravelAtEase_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranjan095/TravelAtEase_API/issues"
+  },
+  "homepage": "https://github.com/Ranjan095/TravelAtEase_API#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
